@@ -1,0 +1,40 @@
+body {
+    background: rgb(99, 189, 99);
+    font: normal 15pt Arial;
+    
+}
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.384);
+}
+
+section {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.349);
+
+}
+
+div {
+    padding: 6px;
+    text-align: left;
+}
+
+div#vrf {
+    text-align: center;
+    background-color: lightgrey;
+    border-radius: 5px;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.384)
+}
+
